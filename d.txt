@@ -25,7 +25,6 @@ seaside
 serving
 sheertights
 sleek
-vacation
 wxy
 yacht_party
 yome
